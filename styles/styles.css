@@ -1,0 +1,23 @@
+:root {
+  --dark-clr: #84DCCF;
+  --light-clr: #BCCCE0;
+  --footer-clr: #312F2f;
+}
+
+body {
+  display: block;
+  margin: 0;
+  font-size: 18px;
+}
+
+header {
+  background-color: #4da598;
+}
+
+.dark-section {
+  background-color: var(--dark-clr);
+}
+
+.light-section {
+  background-color: var(--light-clr);
+}
